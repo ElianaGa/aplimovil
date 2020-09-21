@@ -7,7 +7,7 @@ package com.mycompany.conceptos;
 
 /**
  *
- * @author lenovo
+ * @author Eliana Gaviria
  */
 public class Principal {
     
@@ -20,8 +20,6 @@ public class Principal {
         i.mostrar();
         i.Sonido();
         
-        j.mostrar();
-        j.Sonido();
     }
 }
 
